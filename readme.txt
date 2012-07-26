@@ -14,6 +14,7 @@ WordPress install. It scales very well and with a single click you can push a po
 than 100 sites of different platform. Currently WordPress.com blogs and standalone
 WordPress blogs are supported and we have plans to extend it to other platforms as well.
 
+
 The plugin have a settings page along with an API generator tool that can be used to generate
 API tokens needed to push content in a WordPress.com blog. In the settings page you can select
 the post types you want to push and whether to delete the posts pushed when the master post is deleted.
@@ -35,3 +36,13 @@ page in the WordPress admin area. You also need to define an encryption key whic
 used to encrypt user credentials and save to the database securely.
 
 define('PUSH_SYNDICATION_KEY', 'this-is-a-randon-key')
+
+
+== Changelog ==
+
+= 1.0 =
+* Initial release
+
+== Frequently Asked Questions ==
+
+== Screenshots ==
