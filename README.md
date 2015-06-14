@@ -1,5 +1,5 @@
 # Plugin Name #
-**Contributors:** automattic, nprasath002, batmoo
+**Contributors:** automattic, nprasath002, batmoo, betzer
   
 **Tags:** XMLRPC, WordPress.com REST
   
